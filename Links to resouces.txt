@@ -1,0 +1,77 @@
+Links to resouces
+MCP 70-480
+MCP 70-483
+MCP 70-486
+
+https://www.microsoft.com/en-us/learning/exam-70-480.aspx
+https://www.microsoft.com/en-us/learning/exam-70-483.aspx
+https://www.microsoft.com/en-us/learning/exam-70-486.aspx
+
+Itucation
+http://www.itucation.dk/it-kurser-for-ledige-6-ugers-kurser/kobenhavn/asp-net-mvc/
+
+HivePeople
+https://github.com/hivepeople/Itucation-RecordStore
+
+Youtube video
+https://www.youtube.com/watch?v=E7Voso411Vs
+
+A Complete Guide to Flexbox CSS-Tricks
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Beginner JavaScript Tutorial Code School
+https://www.codeschool.com/courses/javascript-road-trip-part-1
+
+Free Pluralsight 6 Month Subscription
+https://absolute-sharepoint.com/2015/12/free-pluralsight-6-month-subscription.html
+
+Beginner JavaScript Tutorial Code School
+https://www.codeschool.com/courses/javascript-road-trip-part-1
+
+Cosmoseyeballslite-server-sample
+https://github.com/Cosmoseyeballs/lite-server-sample
+
+Getting Started with ASP.NET MVC 5
+https://www.asp.net/mvc/overview/getting-started/introduction/getting-started
+https://www.asp.net/
+https://www.asp.net/freecourses
+
+http://www.wrox.com/WileyCDA/WroxTitle/Professional-ASP-NET-MVC-5.productCd-1118794753,descCd-DOWNLOAD.html
+
+http://plnkr.co/edit/J81EK3TWFof0ekhEnyiJ?p=preview
+http://html6test.com/
+
+SQL Express 2012
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=29062
+https://www.microsoft.com/en-us/download/details.aspx?id=29062
+
+Download Companion Content for Microsoft Official Courseware (MOC) 
+https://www.microsoft.com/en-us/learning/companion-moc.aspx
+http://download.microsoft.com/download/6/9/3/693DED73-7477-43F3-A21F-E2D20BA93E27/20480B-ENU-Companion.zip
+http://download.microsoft.com/download/6/9/3/693DED73-7477-43F3-A21F-E2D20BA93E27/20480B-ENU-Allfiles.exe
+
+http://download.microsoft.com/download/5/A/7/5A7C4467-9DA0-465B-8D7F-53AA9AE01D29/20483B-ENU-Companion.zip
+http://download.microsoft.com/download/5/A/7/5A7C4467-9DA0-465B-8D7F-53AA9AE01D29/20483B-ENU-Allfiles.exe
+
+http://download.microsoft.com/download/1/2/2/12272195-AAFC-4A9E-B06C-AE99ACD5E472/20486B-ENU-Companion.zip
+http://download.microsoft.com/download/1/2/2/12272195-AAFC-4A9E-B06C-AE99ACD5E472/20486B-ENU-Allfiles.exe
+
+
+https://doc-14-8o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/a6clak3pnu862ooo5ov9qcehq9n5mhv4/1485518400000/03372416186153218286/*/0B7bsi0D6kZK3UlNjZ25KMHBDbVU?e=download
+http://www.cs.unsyiah.ac.id/~frdaus/PenelusuranInformasi/File-Pdf/Professional%20ASP.NET%20MVC%205.pdf
+
+Exam Ref 70-483 Programming in C#, Wouter de Kort, O´Reilly, 2013.pdf
+https://github.com/harryi3t/PDFs/raw/master/Exam%20Ref%2070-483%20Programming%20in%20C%23%2C%20Wouter%20de%20Kort%2C%20O%C2%B4Reilly%2C%202013.pdf
+
+http://www.elearningexams.com/wp-content/uploads/2014/09/Free-70-486-Exam-Questions-PDF-Microsoft.pdf
+http://www.flashpowered.com/files/MCSD_Certification_Toolkit.pdf
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+https://doc-08-8o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/kop40ne625do2nu2ohauoufefdo6jqv8/1484719200000/03372416186153218286/*/0B7bsi0D6kZK3am0yd0dNbTNxU28?e=download
+https://doc-08-8o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/shu96udgvp6j8ihrlof27ipq61theakm/1484719200000/03372416186153218286/*/0B7bsi0D6kZK3cDJkWjlmTW5xZGM?e=download
+http://www.daoudisamir.com/references/vs_ebooks/asp_mvc4.pdf
+
+C# 6.0 in a Nutshell - C#+6.0+in+a+Nutshell.pdf
+https://s3-ap-southeast-1.amazonaws.com/mylekha-ebook/IT+%26+Programming/c_c%2B%2B_c%23/C%23+6.0+in+a+Nutshell.pdf
+
+Exam Ref 70-486: Developing ASP.NET MVC 4 Web Applications - asp_mvc4.pdf
+http://www.daoudisamir.com/references/vs_ebooks/asp_mvc4.pdf
