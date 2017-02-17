@@ -1,0 +1,282 @@
+Microsoft Windows [Version 10.0.10240]
+(c) 2015 Microsoft Corporation. All rights reserved.
+
+C:\Users\Admin>cd\
+
+C:\>cd code
+
+C:\code>cd code_kursus
+
+C:\code\code_kursus>git add *
+warning: LF will be replaced by CRLF in bookmarks0215.html.
+The file will have its original line endings in your working directory.
+
+C:\code\code_kursus>git commit -m "onsdag"
+[master 9576332] onsdag
+ Committer: Admin <Admin>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 146 insertions(+)
+ create mode 100644 21-30 Jens/Slides/20486B_06.pdf
+ create mode 100644 bookmarks0215.html
+
+C:\code\code_kursus>git push
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 267.78 KiB | 0 bytes/s, done.
+Total 6 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/TomDalsgaard/code_kursus.git
+   f9c572c..9576332  master -> master
+
+C:\code\code_kursus>git add *
+
+C:\code\code_kursus>git commit -m "onsdag"
+[master 21b4c68] onsdag
+ Committer: Admin <Admin>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Certificering/70-486 Developing ASP.NET 4.5 MVC Web Applications    2015-12-30.vce
+ create mode 100644 Certificering/70-486 Developing ASP.NET 4.5 MVC Web Applications    2017-01-22.pdf
+ create mode 100644 Certificering/70-486 Developing ASP.NET 4.5 MVC Web Applications   .vce
+
+C:\code\code_kursus>git push
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 12.08 MiB | 642.00 KiB/s, done.
+Total 6 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/TomDalsgaard/code_kursus.git
+   9576332..21b4c68  master -> master
+
+C:\code\code_kursus>git pull
+Already up-to-date.
+
+C:\code\code_kursus>git add *
+
+C:\code\code_kursus>git commit -m "torsdag 29"
+[master d2965cb] torsdag 29
+ Committer: Admin <Admin>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 16 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 21-30 Jens/Books/Dreamweaver All-lesson_files.zip
+ create mode 100644 21-30 Jens/Books/Dreamweaver CC Classroom in a book (2014 edition).pdf
+ create mode 100644 21-30 Jens/Books/Illustrator All_Lessons.zip
+ create mode 100644 21-30 Jens/Books/Illustrator CC Classroom in a book (2015 edition).pdf
+ create mode 100644 21-30 Jens/Books/Indesign All_Lessons.zip
+ create mode 100644 21-30 Jens/Books/Indesign CC Classroom in a book (2014 edition).pdf
+ create mode 100644 21-30 Jens/Books/Photoshop All-Lessons.zip
+ create mode 100644 21-30 Jens/Books/Photoshop CC Classroom in a book (2015 edition).pdf
+ create mode 100644 Certificering/70-480 Programming in HTML5 with JavaScript and CSS3     2016-09-15.pdf
+ create mode 100644 Certificering/70-480 Programming in HTML5 with JavaScript and CSS3   .vce
+ create mode 100644 Certificering/70-483 Programming in C#     2016-09-01.pdf
+ create mode 100644 Certificering/70-483 Programming in C#   .vce
+ create mode 100644 Certificering/70-483Programming in C# 2015-03-02.pdf
+ create mode 100644 Certificering/70-486 Developing ASP.NET 4.5 MVC Web Applications    (1).vce
+ create mode 100644 Certificering/70-486 Developing ASP.NET 4.5 MVC Web Applications    2016-08-22.vce
+ create mode 100644 Deling Hold 1-20170216T085148Z.zip
+
+C:\code\code_kursus>git push
+Counting objects: 19, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (18/18), done.
+Writing objects: 100% (19/19), 1.66 GiB | 654.00 KiB/s, done.
+Total 19 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+remote: error: Trace: 58ad82994beeed044bf7747f942f349c
+remote: error: See http://git.io/iEPt8g for more information.
+remote: error: File 21-30 Jens/Books/Dreamweaver All-lesson_files.zip is 185.26 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File 21-30 Jens/Books/Illustrator All_Lessons.zip is 341.43 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File 21-30 Jens/Books/Illustrator CC Classroom in a book (2015 edition).pdf is 104.13 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File 21-30 Jens/Books/Indesign All_Lessons.zip is 291.02 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File 21-30 Jens/Books/Photoshop All-Lessons.zip is 690.89 MB; this exceeds GitHub's file size limit of 100.00 MB
+To https://github.com/TomDalsgaard/code_kursus.git
+ ! [remote rejected] master -> master (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/TomDalsgaard/code_kursus.git'
+
+C:\code\code_kursus>git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working tree clean
+
+C:\code\code_kursus>git add *
+
+C:\code\code_kursus>git commit -m "torsdag 29"
+[master 9fd6c65] torsdag 29
+ Committer: Admin <Admin>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 21-30 Jens/Books/Dreamweaver All-lesson_files.zip
+ delete mode 100644 21-30 Jens/Books/Dreamweaver CC Classroom in a book (2014 edition).pdf
+ delete mode 100644 21-30 Jens/Books/Illustrator All_Lessons.zip
+ delete mode 100644 21-30 Jens/Books/Illustrator CC Classroom in a book (2015 edition).pdf
+ delete mode 100644 21-30 Jens/Books/Indesign All_Lessons.zip
+ delete mode 100644 21-30 Jens/Books/Indesign CC Classroom in a book (2014 edition).pdf
+ delete mode 100644 21-30 Jens/Books/Photoshop All-Lessons.zip
+ delete mode 100644 21-30 Jens/Books/Photoshop CC Classroom in a book (2015 edition).pdf
+
+C:\code\code_kursus>git push
+Counting objects: 21, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (20/20), done.
+Writing objects: 100% (21/21), 1.66 GiB | 619.00 KiB/s, done.
+Total 21 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas: 100% (4/4), completed with 3 local objects.
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+remote: error: Trace: 772cb917c5dadbbf84547f7258a0f4c8
+remote: error: See http://git.io/iEPt8g for more information.
+remote: error: File 21-30 Jens/Books/Dreamweaver All-lesson_files.zip is 185.26 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File 21-30 Jens/Books/Illustrator All_Lessons.zip is 341.43 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File 21-30 Jens/Books/Illustrator CC Classroom in a book (2015 edition).pdf is 104.13 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File 21-30 Jens/Books/Indesign All_Lessons.zip is 291.02 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File 21-30 Jens/Books/Photoshop All-Lessons.zip is 690.89 MB; this exceeds GitHub's file size limit of 100.00 MB
+To https://github.com/TomDalsgaard/code_kursus.git
+ ! [remote rejected] master -> master (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/TomDalsgaard/code_kursus.git'
+
+C:\code\code_kursus>git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+nothing to commit, working tree clean
+
+C:\code\code_kursus>git --help
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+
+C:\code\code_kursus>git log
+commit 9fd6c657ee1308705e852c9264da3730bff52c8b
+Author: Admin <Admin>
+Date:   Thu Feb 16 15:36:40 2017 +0100
+
+    torsdag 29
+
+commit d2965cb3805659c10af9069ef596fd9198f0b529
+Author: Admin <Admin>
+Date:   Thu Feb 16 14:43:16 2017 +0100
+
+    torsdag 29
+
+commit 21b4c6883937d84b8e9bdd7a444231a9c36453e7
+Author: Admin <Admin>
+commit 9fd6c657ee1308705e852c9264da3730bff52c8b
+Date:   Wed Feb 15 13:38:36 2017 +0100
+
+    onsdag
+
+commit 95763321cac5d99756469366d90e30c9a52d3659
+Author: Admin <Admin>
+Date:   Wed Feb 15 13:23:05 2017 +0100
+
+    onsdag
+
+commit f9c572ca4a39b803faeecbddee3d419f3159915e
+Author: Admin <Admin>
+Date:   Mon Feb 13 09:11:27 2017 +0100
+
+    Azure slide
+
+:^C
+C:\code\code_kursus>git help reset
+
+C:\code\code_kursus>git reset --hard "Exam Dump 486"
+fatal: ambiguous argument 'Exam Dump 486': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+C:\code\code_kursus>git reset --hard onsdag
+fatal: ambiguous argument 'onsdag': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+:git reset --hard onsdag
+
+:
+
+:
